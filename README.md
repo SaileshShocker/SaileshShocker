@@ -1,9 +1,9 @@
 <body>
     <h1 style="text-align: center;">Hello World!>></h1>
+    background: url(https://static.pexels.com/photos/298611/pexels-photo-298611.jpeg);
 
  </body>
   
-background: url(https://static.pexels.com/photos/298611/pexels-photo-298611.jpeg);
 
 
 
