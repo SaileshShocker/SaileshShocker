@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)]
+[![MasterHead](https://github.com/SaileshShocker/SaileshShocker/blob/main/passionate%20data%20science%20developer%20sailesh%20gif.gif?raw=true)]
   
 
 <h1 align="center">Hi 👋, I'm Sailesh</h1>
