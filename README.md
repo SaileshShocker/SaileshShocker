@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 
 <body>
     <h1 style="text-align: center;">Hello World!>></h1>
@@ -14,11 +13,7 @@ body {
 }
 </style>
 </head>
-<body>
 
-<!-- Add your content here -->
-
-</body>
 
 
 
@@ -57,4 +52,3 @@ I am proficient in Python, SQL, Excel, Machine Learning tools, Statistics and ha
   
 
 </p>
-</html>
