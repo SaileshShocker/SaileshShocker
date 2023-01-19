@@ -1,24 +1,13 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)]
-
-<body>
-    <h1 style="text-align: center;">Hello World!>></h1>
- </body>
   
 
-<head>
-<style>
-body {
-  background-image: url('https://contextere.com/wp-primary/wp-content/uploads/ITPro-Today.png');
-  background-size: cover;
-}
-</style>
-</head>
+<h1 align="center">Hi 👋, I'm Sailesh</h1>
+<h3 align="center">A passionate Data Science Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-
-
-<h1 align="left">I'm Sailesh👋</h1> 
+<!-- <h1 align="left">I'm Sailesh👋</h1>  -->
 
 <a href="https://www.linkedin.com/in/sailesh-shocker/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/> </a> &nbsp; <a href="mailto:sailesh.shocker@gmail.com" target="_blank" rel="noreferrer"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="python" width="40" height="30"/> </a> &nbsp; <a href="https://github.com/SaileshShocker?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="30"/> </a>
 <br>
