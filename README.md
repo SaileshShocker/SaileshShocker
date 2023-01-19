@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/SaileshShocker/SaileshShocker/blob/main/passionate%20data%20science%20developer%20sailesh%20gif.gif?raw=true)]
+[![MasterHead](https://github.com/SaileshShocker/SaileshShocker/blob/main/passionate%20data%20science%20developer%20sailesh%20gif.gif?raw=true)](https://github.com/SaileshShocker/SaileshShocker/blob/main/passionate%20data%20science%20developer%20sailesh%20gif.gif)
   
 
 <h1 align="center">Hi 👋, I'm Sailesh</h1>
