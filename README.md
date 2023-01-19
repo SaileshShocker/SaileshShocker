@@ -1,10 +1,10 @@
 <body>
     <h1 style="text-align: center;">Hello World!>></h1>
-    background: url(https://static.pexels.com/photos/298611/pexels-photo-298611.jpeg);
-
  </body>
   
-
+<div style="background-image:url('https://contextere.com/wp-primary/wp-content/uploads/ITPro-Today.png'); background-size:cover;">
+    <!-- Add your content here -->
+</div>
 
 
 
