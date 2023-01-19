@@ -9,7 +9,13 @@
 
 <!-- <h1 align="left">I'm Sailesh👋</h1>  -->
 
-<a href="https://www.linkedin.com/in/sailesh-shocker/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/> </a> &nbsp; <a href="mailto:sailesh.shocker@gmail.com" target="_blank" rel="noreferrer"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="python" width="40" height="30"/> </a> &nbsp; <a href="https://github.com/SaileshShocker?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="30"/> </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ShockerSailesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shockersailesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sailesh-shocker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sailesh Sivan" height="30" width="40" /></a>
+<a href="[https://instagram.com/rishav_chanda](https://www.instagram.com/__sailesh_shocker__/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SaileshShocker" height="30" width="40" /></a>
+
+</p>
 <br>
 
 
