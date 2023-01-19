@@ -1,10 +1,25 @@
+<!DOCTYPE html>
+<html>
+
 <body>
     <h1 style="text-align: center;">Hello World!>></h1>
  </body>
   
-<div style="background-image:url('https://contextere.com/wp-primary/wp-content/uploads/ITPro-Today.png'); background-size:cover;">
-    <!-- Add your content here -->
-</div>
+
+<head>
+<style>
+body {
+  background-image: url('https://contextere.com/wp-primary/wp-content/uploads/ITPro-Today.png');
+  background-size: cover;
+}
+</style>
+</head>
+<body>
+
+<!-- Add your content here -->
+
+</body>
+
 
 
 
@@ -42,3 +57,4 @@ I am proficient in Python, SQL, Excel, Machine Learning tools, Statistics and ha
   
 
 </p>
+</html>
