@@ -5,7 +5,7 @@
   
 <style>
 body {
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORzeSG5PtcZXanDQkvuNgNNuVps4AfCcm-vjxHNpWHZZixCxcSX6UzReks5zcvrtC5_E&usqp=CAU');
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORzeSG5PtcZXanDQkvuNgNNuVps4AfCcm-vjxHNpWHZZixCxcSX6UzReks5zcvrtC5_E&usqp=CAU);
   background-repeat: no-repeat;
 }
 </style>
