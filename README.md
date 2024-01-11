@@ -23,7 +23,7 @@
 
 
 
-<a href="https://drive.google.com/file/d/1GvoZQoIMpDRREG2dD0WtcfGrr7sl5Uv1/view?usp=sharing" style="float:right" download>
+<a href="https://drive.google.com/file/d/1IeRqIS62cH0GtREZ77HpOVm1pg-ohmvu/view?usp=sharing" style="float:right" download>
   <img src="https://img.freepik.com/free-icon/curriculum_318-340194.jpg?w=2000" alt="download"  width="80" height="80">
 </a>
 
@@ -31,8 +31,8 @@
 
 <h2 align="left">About</h2> 
 
-Passionate Data Science professional with 1 year Experience. Interested in discovering hidden patterns in data and designing ML based solutions for complex business problems. I have worked on a variety of analytics/ML projects, NLP and Computer Vision. 
-I am proficient in Python, SQL, Excel, Machine Learning tools, Statistics and have worked on Google Cloud Platform and Tableau.
+Passionate Data Science professional with 1 year of Experience. Interested in discovering hidden patterns in data and designing ML-based solutions for complex business problems. I have worked on a variety of analytics/ML projects, NLP, and Computer Vision. 
+I am proficient in Python, SQL, Excel, Machine Learning tools, and Statistics and have worked on Google Cloud Platform and Tableau.
  
 <h2>Data Science Enthusiast</h2>
 <p>👀 I’m interested in growing and learning new Skills for becoming an experienced Data Science;<br>
