@@ -31,15 +31,47 @@
 
 <h2 align="left">About</h2> 
 
-Passionate Data Science professional with 1 year of Experience. Interested in discovering hidden patterns in data and designing ML-based solutions for complex business problems. I have worked on a variety of analytics/ML projects, NLP, and Computer Vision. 
-I am proficient in Python, SQL, Excel, Machine Learning tools, and Statistics and have worked on Google Cloud Platform and Tableau.
- 
-<h2>Data Science Enthusiast</h2>
-<p>👀 I’m interested in growing and learning new Skills for becoming an experienced Data Science;<br>
-🌱 I’m currently Working on Python Machine Learning, NLP, Computer Vision, Deep Learning database and much more;<br>
-☕ Coffee and coding lover</p>
- 
+🚀 Passionate Data Science & Analytics Professional with 2+ years of hands-on experience turning raw data into meaningful insights and building AI-powered solutions that drive real business impact.
 
+📊 I specialize in:
+
+📈 Data Analytics & Business Intelligence
+
+🤖 Machine Learning & AI
+
+💬 Natural Language Processing (NLP)
+
+📚 Large Language Models (LLMs)
+
+🎨 Generative AI
+
+👁️‍🗨️ Computer Vision
+→ Built & deployed multiple detection models from scratch
+
+🛠️ My tech stack includes:
+
+🐍 Python
+
+💾 SQL & MongoDB
+
+📂 Databases (relational + NoSQL)
+
+☁️ AWS, Azure, Google Cloud Platform
+
+⚙️ Automation with MS Power Automate
+
+💻 Flask & Streamlit for web apps
+
+📊 Power BI for dashboarding & data storytelling
+
+✨ I blend technical depth with business strategy to help teams make smarter, data-driven decisions through AI and analytics.
+
+🌱 Currently exploring deeper into Generative AI, LLMs, and scalable cloud-based AI solutions.
+
+☕ Fueled by curiosity, clean code, and coffee.
+
+Let’s connect and create something impactful together! 💡
+ 
 
 
 
